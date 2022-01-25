@@ -133,7 +133,7 @@
         android:layout_width="267dp"
         android:layout_height="46dp"
         android:autoLink="all"
-        android:text="https://github.com/waiz01/BMI-PROJECT-INDVD_ASSGMNT-.git"
+        android:text="https://github.com/waiz01/BMI-PROJECT-JAVA.git"
         android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
